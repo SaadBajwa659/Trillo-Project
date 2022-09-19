@@ -1,0 +1,16 @@
+.notification {
+
+  &__number {
+
+  }
+
+  &__text {
+
+    & > span {
+      display: flex;
+      justify-content: flex-start;
+      color: var(--color-primary);
+      font-size: 1.5rem;
+    }
+  }
+}
