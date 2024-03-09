@@ -1,11 +1,4 @@
-import { IoMdHome, IoMdSearch } from "react-icons/io";
-import { RiFlightTakeoffFill } from "react-icons/ri";
-import { HiKey, HiChevronRight } from "react-icons/hi";
-import { ImMap2 } from "react-icons/im";
-import { GrStar } from "react-icons/gr";
-import { ImLocation, ImBookmark } from "react-icons/im";
 import { SiGooglechat } from "react-icons/si";
-import { Link } from "react-router-dom";
 import React from "react";
 import "../styles/Base-notification.scss";
 import "../styles/Layout-notification.scss";

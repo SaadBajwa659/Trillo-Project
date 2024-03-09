@@ -3,7 +3,7 @@ import "../styles/Layout.scss";
 import "../styles/Components.scss";
 import { IoMdHome, IoMdSearch } from "react-icons/io";
 import { RiFlightTakeoffFill } from "react-icons/ri";
-import { HiKey, HiChevronRight } from "react-icons/hi";
+import { HiKey } from "react-icons/hi";
 import { ImMap2 } from "react-icons/im";
 import { GrStar } from "react-icons/gr";
 import { ImLocation, ImBookmark } from "react-icons/im";
